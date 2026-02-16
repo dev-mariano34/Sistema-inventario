@@ -1,7 +1,6 @@
 ## 🔧 API Endpoints
 
 Base URL
-
 `http://localhost:3000`
 
 ### 🟢 Health Check
@@ -17,4 +16,5 @@ Verifies that the API server is running.
 {
   "status": "Inventory API running"
 }
+
 
