@@ -1,6 +1,6 @@
 ## 🔧 API Endpoints
 
-Base URL:
+Base URL
 
 `http://localhost:3000`
 
@@ -17,3 +17,4 @@ Verifies that the API server is running.
 {
   "status": "Inventory API running"
 }
+
