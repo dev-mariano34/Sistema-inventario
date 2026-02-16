@@ -18,3 +18,21 @@ Verifies that the API server is running.
 }
 
 
+=======
+\## Run Backend
+
+
+
+cd backend
+
+npm install
+
+npm start
+
+
+
+API available at:
+
+http://localhost:3000
+
+
